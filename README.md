@@ -1,2 +1,2 @@
 # python_examples
-Includes school assignments and other projects
+Includes school assignments
